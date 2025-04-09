@@ -55,12 +55,15 @@ Make sure the backend server (Flask API with DocOwl2) is running locally on the 
 ## 📂 Project Structure
 
 ```
-├── public/
+├── shared/
 ├── src/
 │   ├── components/
+│   ├── hooks/
+│   ├── lib/
 │   ├── pages/
-│   ├── api/
-│   └── App.tsx
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
 ├── package.json
 └── tailwind.config.js
 ```
