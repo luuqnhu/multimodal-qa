@@ -69,11 +69,10 @@ Make sure the backend server (Flask API with DocOwl2) is running locally on the 
 ```
 
 ## 💬 Features
-
-•	Image upload (single & multi-page)
-•	Real-time Q&A interaction
-•	Clean chat interface with history tracking
-•	Displays uploaded images with each query
+- Image upload (single & multi-page)
+- Real-time Q&A interaction
+- Clean chat interface with history tracking
+- Displays uploaded images with each query
 
 ## 📝 License
 
